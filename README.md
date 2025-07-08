@@ -1,5 +1,5 @@
 # Styled_Profile_Card
-## Date:
+## Date:8/7/2025
 
 ## Objective:
 To practice HTML and CSS fundamentals by designing a visually appealing profile card that demonstrates the use of background color, typography, spacing, and layout alignment techniques.
